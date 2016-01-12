@@ -3,4 +3,8 @@ Flog_Mikiko
 Parret_Mikiko
 Catfish_Mikiko
 
+horse
+cow 
+pig
+
 
